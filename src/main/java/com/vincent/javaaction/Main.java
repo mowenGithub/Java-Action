@@ -1,7 +1,7 @@
 package com.vincent.javaaction;
 
 /**
- * Created by mowen on 4/10/16.
+ * Created by Vincent on 4/10/16.
  */
 public class Main {
 
